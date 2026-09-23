@@ -1,6 +1,6 @@
 # Quantum Speedup for Markov Chain Mixing Time
 
-An EPFL semester project investigating the quantum algorithm proposed by Claudon, Piquemal & Monmarché (*Nature Communications*, 2025) for accelerating the mixing time of both reversible and non-reversible Markov chains.
+An EPFL semester project implementing and investigating the quantum algorithm proposed by Claudon, Piquemal & Monmarché (Nature Communications, 2025) for accelerating sampling from the stationary distribution of both reversible and non-reversible Markov chains.
 
 ## Overview
 
@@ -79,4 +79,4 @@ Both circuits are sensitive to noise: depolarising error rates above $p \approx 
 
 ## References
 
-[^1]: Claudon, B., Piquemal, J.-P., & Monmarché, P. (2025). Quantum speedup for nonreversible Markov chains. *Nature Communications*, 16(1). [https://doi.org/10.1038/s41467-025-56171-0](https://doi.org/10.1038/s41467-025-56171-0)
+[^1]: Claudon, B., Piquemal, J.-P., & Monmarché, P. (2025). Quantum speedup for nonreversible Markov chains. *Nature Communications*, 16(1). [https://doi.org/10.1038/s41467-025-56171-0](https://doi.org/10.48550/arXiv.2501.05868)
