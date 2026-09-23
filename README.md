@@ -1,4 +1,4 @@
-# Quantum Sampling from Markov Chain Stationary Distributions
+# Quantum Sampling from a Markov Chain’s Stationary Distribution
 
 An EPFL semester project implementing and investigating the quantum algorithm proposed by Claudon, Piquemal & Monmarché (Nature Communications, 2025) for accelerating sampling from the stationary distribution of both reversible and non-reversible Markov chains.
 
